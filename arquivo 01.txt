@@ -1,3 +1,5 @@
-no arquivo versão 01
+Novo arquivo versão 01
 
-Arquivo editado pleo GitHub
+Arquivo editado pelo GitHub
+
+Versão 2
